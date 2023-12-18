@@ -64,7 +64,7 @@
 
 ```bash
 # Clone o repositório
-git clone git@github.com:the-riquelme/tic-tac-toe-xo-transactions.git
+git clone git@github.com:the-riquelme/blockchain-application.git
 
 # Execute o programa
 python3 src/blockchain.py
